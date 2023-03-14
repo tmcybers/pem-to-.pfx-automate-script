@@ -20,3 +20,7 @@
 Python script that uses the 'openssl' library to convert a .pem certificate file to a .pfx file on Linux
 
 TIp: The password provided by the user is used to protect the .pfx file.
+
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%23808080&size=30&width=1000&duration=6969&lines=I+am+not+responsible+for+[the+misuse+of+my+tools]!)](https://git.io/typing-svg)
